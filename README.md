@@ -10,7 +10,7 @@ Use whatever language, storage and tools you feel comfortable to.
 
 Also, briefly elaborate on your solution, datalake architecture, nomenclature, partitioning, data model and validation method.
 
-Fork this repository and submit your code. The solution must contain a notebook (databricks, jupyter), docker image or code ready to be submitted to a spark cluster.
+Once completed, you may submit your solution to ifoodbrain_hiring@ifood.com.br with the subject: iFood DArch Case Solution / Candidate Name.
 
 ## Requirements
 
